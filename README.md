@@ -1,7 +1,7 @@
 # Handwritten Digits Classification
 
 ## Overview
-This project focuses on classifying handwritten digits using **Machine Learning (ML) and Deep Learning (DL)** techniques. The dataset used is **MNIST** which consists of **28x28 grayscale images of digits (0-9)**. The goal is to develop an accurate classifier that can recognize handwritten digits.
+This project focuses on classifying handwritten digits using **Machine Learning (ML) techniques. The dataset used is **MNIST** which consists of **28x28 grayscale images of digits (0-9)**. The goal is to develop an accurate classifier that can recognize handwritten digits.
 
 ## Project Goals
 - **Load and preprocess** the MNIST dataset.
