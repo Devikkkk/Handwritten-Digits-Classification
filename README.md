@@ -1,18 +1,18 @@
 # Handwritten Digits Classification
 
 ## Overview
-This project focuses on classifying handwritten digits using **Machine Learning (ML) techniques. The dataset used is **MNIST** which consists of **28x28 grayscale images of digits (0-9)**. The goal is to develop an accurate classifier that can recognize handwritten digits.
+This project focuses on classifying handwritten digits using **classical Machine Learning models**. The dataset used is **MNIST**, a widely known dataset containing **28x28 grayscale images of digits (0-9)**. The goal is to develop and compare different machine learning models to evaluate their classification performance.
 
 ## Project Goals
-- **Load and preprocess** the MNIST dataset.
-- **Perform exploratory data analysis (EDA)** to visualize the data.
-- **Train multiple ML models** like Logistic Regression, SVM, and Random Forest.
-- **Develop and train a Deep Learning model** using **Convolutional Neural Networks (CNNs)**.
-- **Evaluate model performance** using accuracy and confusion matrices.
+- **Perform Exploratory Data Analysis (EDA)** to understand the dataset.
+- **Train multiple Machine Learning models** and compare their performance.
+- **Visualize and interpret classification results**.
 
 ## Dataset Details
-- **Source:** [MNIST Handwritten Digits Dataset](http://yann.lecun.com/exdb/mnist/)
+- **Source:** [MNIST Handwritten Digits Dataset (OpenML)](https://www.openml.org/search?type=data&status=active&id=554&sort=runs)
+- **Training Samples:** 60,000
+- **Testing Samples:** 10,000
 - **Format:** Images (28x28 pixels, grayscale)
 - **Classes:** 10 (Digits 0-9)
 
-
+## Project Structure
